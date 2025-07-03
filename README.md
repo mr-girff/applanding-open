@@ -45,6 +45,13 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+## 🔗 相关链接
+
+- [项目主页](https://github.com/liseami/applanding-open)
+- [在线演示](https://koudai.chunxiang.space)
+- [问题反馈](https://github.com/liseami/applanding-open/issues)
+
+
 ## 🛠️ 技术栈
 
 ### 核心框架
@@ -468,12 +475,6 @@ git commit -m "feat: 添加3D背景效果组件"
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
 
-## 🔗 相关链接
-
-- [项目主页](https://applanding.pages.dev)
-- [在线演示](https://demo.applanding.pages.dev)
-- [文档站点](https://docs.applanding.pages.dev)
-- [问题反馈](https://github.com/your-username/applanding-open/issues)
 
 ---
 
